@@ -30,7 +30,7 @@ python scripts/data_collection.py
 # Executar o script de análise de dados
 python scripts/data_analysis.py
 
-#Observações:
+# Observações:
 Certifique-se de obter um token de acesso válido para a API do Spotify e substituir SEU_TOKEN_DE_ACESSO pelo token fornecido. Além disso, os endpoints da API do Spotify podem exigir autenticação por token de acesso, como no exemplo acima.
 
 Com esses ajustes, o projeto estará pronto para monitorar a API do Spotify, registrando o tempo de resposta e o status das solicitações, e gerando relatórios sobre o desempenho da API.
