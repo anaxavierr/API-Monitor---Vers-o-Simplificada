@@ -1,4 +1,4 @@
-Passo a Passo do Projeto:
+# Passo a Passo do Projeto:
 Coleta de Dados:
 
 Desenvolveremos um script Python para fazer solicitações simples a API do Spotify.
